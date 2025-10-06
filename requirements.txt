@@ -6,3 +6,5 @@ matplotlib
 seaborn
 plotly
 joblib
+
+pywin32==310; platform_system == "Windows"
