@@ -8,3 +8,4 @@ plotly
 joblib
 
 pywin32==310; platform_system == "Windows"
+statsmodels==0.14.3
