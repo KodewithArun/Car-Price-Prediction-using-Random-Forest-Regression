@@ -1,13 +1,12 @@
-streamlit
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-plotly
-joblib
+streamlit==1.45.0
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.2
+matplotlib==3.8.4
+seaborn==0.13.2
+plotly==5.22.0
+joblib==1.4.2
 
-pywin32==310; platform_system == "Windows"
-scipy==1.12.0
-statsmodels==0.14.3
-
+# Compatible versions for regression/trendline support
+scipy==1.11.4
+statsmodels==0.14.1
